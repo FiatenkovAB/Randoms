@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rundoms</string>
+    <string name="rundom">Угадай число</string>
+    <string name="buttons">угадать</string>
+    <string name="hint">введите число от 0 до 30</string>
+    <string name="restart">заново</string>
+</resources>
